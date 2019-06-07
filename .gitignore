@@ -41,7 +41,7 @@ Thumbs.db
 # config files #
 ######################
 
-*./node_modules
+node_modules
 dist
 _source-docs
 
@@ -52,3 +52,4 @@ _source-docs
 
 
 
+node_modules
